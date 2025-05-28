@@ -13,18 +13,28 @@ Submitted By:
 
 
 Tech Stack
+
 1.Front End: HTML, CSS
+
 2.Backend: PHP, JavaScript
+
 3.Database: XAMPP
+
 4.Integrated Development Environment: VS Code
 
 
 Features
+
 1.Login page
+
 2.Logout
+
 3.Register
+
 4.Search
+
 5.Rate and Review
+
 6.PhpMyAdmin
 
 
