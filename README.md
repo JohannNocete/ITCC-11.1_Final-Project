@@ -15,7 +15,7 @@ Submitted By:
 
 Tech Stack
 
-1.Front End: HTML, CSS
+1.Front End: HTML, CSS, Bootstrap 5
 
 2.Backend: PHP, JavaScript
 
